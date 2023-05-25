@@ -1,5 +1,5 @@
 import Exercice1.Bienvenue;
-import Exercice2.Product;
+
 
 public class Main {
 
@@ -9,8 +9,6 @@ public class Main {
 
         bienvenue.methodeBienvenue();
 
-        Product produit = new Product("LAIT");
 
-        System.out.println(produit.getName());
     }
 }

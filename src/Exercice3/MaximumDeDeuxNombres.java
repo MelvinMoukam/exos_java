@@ -16,11 +16,11 @@ public class MaximumDeDeuxNombres {
 
         if( n1 < n2){
 
-            System.out.println("le plus grand entre les deux nombres entrés est : " +n2);
+            System.out.println("le plus grand entre les deux nombres entrés est  : " +n2);
 
         }else{
 
-            System.out.println("le plus grand entre les deux nombres entrés est : " +n1);
+            System.out.println("le plus grand entre les deux nombres entrés est  : " +n1);
         }
 
 

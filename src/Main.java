@@ -1,5 +1,7 @@
 import Exercice1.Bienvenue;
 import Exercice2.DoubleNombre;
+import Exercice3.MaximumDeDeuxNombres;
+import Exercice4.PairImpair;
 
 
 public class Main {
@@ -13,6 +15,14 @@ public class Main {
         DoubleNombre number = new DoubleNombre();
 
         number.doublenumber();
+
+        MaximumDeDeuxNombres maximum =new MaximumDeDeuxNombres();
+
+        maximum.maximumNumber();
+
+        PairImpair r = new PairImpair();
+
+        r.nombrePairImpair();
 
 
     }

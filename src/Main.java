@@ -1,4 +1,5 @@
 import Exercice1.Bienvenue;
+import Exercice2.DoubleNombre;
 
 
 public class Main {
@@ -8,6 +9,10 @@ public class Main {
         Bienvenue bienvenue = new Bienvenue();
 
         bienvenue.methodeBienvenue();
+
+        DoubleNombre number = new DoubleNombre();
+
+        number.doublenumber();
 
 
     }

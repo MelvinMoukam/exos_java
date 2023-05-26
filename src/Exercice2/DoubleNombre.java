@@ -8,13 +8,15 @@ public class DoubleNombre {
 
     public void doublenumber(){
 
-        Scanner number = new Scanner (System.in );
-
         System.out.println("Entrez votre nombre : ");
+
+        Scanner number = new Scanner (System.in );
 
         int n = number.nextInt();
 
-        System.out.println("le double de votre nombre est : " + (n*2));
+        int result = n*2;
+
+        System.out.println("le double de votre nombre entré est : " + result );
     }
 
 

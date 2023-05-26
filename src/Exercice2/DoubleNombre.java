@@ -16,7 +16,7 @@ public class DoubleNombre {
 
         int result = n*2;
 
-        System.out.println("le double de votre nombre entré est : " + result );
+        System.out.println("le double de votre nombre entré est  : " + result );
     }
 
 

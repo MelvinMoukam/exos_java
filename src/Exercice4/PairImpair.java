@@ -12,9 +12,9 @@ public class PairImpair {
 
         int n = number.nextInt();
 
-        int r = n%2;
+        int R = n%2;
 
-        if (r==0){
+        if (R==0){
             System.out.println("le nombre est pair ");
 
         }else {

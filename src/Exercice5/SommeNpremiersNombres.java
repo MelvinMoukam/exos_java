@@ -18,6 +18,6 @@ public class SommeNpremiersNombres {
 
             s+=i;
         }
-        System.out.println("la somme des 100 premiers nombres est : " +s);
+        System.out.println("la somme des n premiers nombres est : " +s);
     }
 }

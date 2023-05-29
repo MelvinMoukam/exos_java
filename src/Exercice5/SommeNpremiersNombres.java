@@ -14,7 +14,7 @@ public class SommeNpremiersNombres {
 
         int s = 0;
 
-        for (int i =0 ; i<= result; i++){
+        for (int i =1 ; i<= result; i++){
 
             s+=i;
         }

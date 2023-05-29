@@ -1,9 +1,9 @@
-import Exercice1.Bienvenue;
-import Exercice2.DoubleNombre;
-import Exercice3.MaximumDeDeuxNombres;
-import Exercice4.PairImpair;
-import Exercice5.SommeDesCentPremiersNombres;
-import Exercice5.SommeNpremiersNombres;
+import exercice1.Bienvenue;
+import exercice2.DoubleNombre;
+import exercice3.MaximumDeDeuxNombres;
+import exercice4.PairImpair;
+import exercice5.SommeDesCentPremiersNombres;
+import exercice5.SommeNpremiersNombres;
 
 
 public class Main {

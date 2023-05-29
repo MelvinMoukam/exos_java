@@ -8,7 +8,7 @@ public class SommeDesCentPremiersNombres {
 
         for(int i= 0; i<=100; i++){
 
-            s=s+i;
+            s+=i;
         }
         System.out.println("la somme des 100 premiers nombres est : " +s);
     }

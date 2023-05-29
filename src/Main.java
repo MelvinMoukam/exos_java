@@ -14,7 +14,7 @@ public class Main {
         Bienvenue bienvenue = new Bienvenue();
         bienvenue.methodeBienvenue();
 
-         //Double d'un nombre
+         //Double d'un nombre entier
         DoubleNombre number = new DoubleNombre();
         number.doublenumber();
 
@@ -31,7 +31,7 @@ public class Main {
         somme.sommeDesCentspremiersNombres();
 
         // somme des n premiers nombres entiers
-        SommeNpremiersNombres so = new SommeNpremiersNombres();
-        so.sommesNpremiersNombres();
+        SommeNpremiersNombres so_n = new SommeNpremiersNombres();
+        so_n.sommesNpremiersNombres();
     }
 }
